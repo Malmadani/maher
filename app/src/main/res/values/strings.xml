@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">brmg</string>
+
+    <string-array name="array">
+        <item>اللعربية</item>
+        <item>الكلبية</item>
+        <item>المكلبنة</item>
+    </string-array>
+</resources>
